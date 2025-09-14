@@ -12,7 +12,7 @@ An **interactive cricket match dashboard** built with **Streamlit** that display
 
 # Dashboard Overview
 
-<img width="1897" height="749" alt="Screenshot 2025-09-13 114051" src="https://github.com/user-attachments/assets/9aeb5c70-7498-41f1-b299-13a95148a3ee" />
+<img width="1611" height="798" alt="Screenshot 2025-09-14 180026" src="https://github.com/user-attachments/assets/6f918506-8821-4b36-a389-e82d6fd2c757" />
 
 ---
 
