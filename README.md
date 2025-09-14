@@ -4,6 +4,18 @@ An **interactive cricket match dashboard** built with **Streamlit** that display
 
 ---
 
+# Problem Statement & Objective
+    
+    To fetch live cricket data, transform it, and present it in an interactive way.
+
+---
+
+# Dashboard Overview
+
+<img width="1897" height="749" alt="Screenshot 2025-09-13 114051" src="https://github.com/user-attachments/assets/9aeb5c70-7498-41f1-b299-13a95148a3ee" />
+
+---
+
 ## 🚀 Features
 
 * 📅 **Date Filter** – Select matches within a custom range.
